@@ -1,0 +1,9 @@
+{
+  "name": "love_talk_for_guys",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-steroids": "1.x"
+  }
+}
