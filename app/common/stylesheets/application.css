@@ -165,6 +165,12 @@
   font-weight: bold;
 }
 
+.background-image-container__title-container--rituals-of-connection {
+  width: 300px;
+  margin: 15px auto 0px;
+  background-color: rgba(175, 97, 211, 0.5);
+}
+
 .background-image-container__title--give-appreciation {
   padding-top: 15px;
   font-size: 30px;
